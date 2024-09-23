@@ -26,4 +26,4 @@ resultadoDiv.innerHTML = `
     Segundo número: ${numero2}<br>
     Terceiro número: ${numero3}<br>
     A média dos números é: ${media}
-    ';
+    `;
