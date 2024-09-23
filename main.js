@@ -8,3 +8,7 @@ function multiplicar (a,b) {
     return a*b;
     console.log(multiplicar(6,6));
 }
+let areaTriangulo = function(a,b){
+    return a*b/2;
+}
+console.log()
