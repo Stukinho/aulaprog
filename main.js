@@ -13,9 +13,9 @@ let areaTriangulo = function(a,b){
 }
 console.log(areaTriangulo);
 
-let numero1 = parseFloat(prompt('Digite o primeiro número:'));
-let numero2 = parseFloat(prompt('Digite o segundo número:'));
-let numero3 = parseFloat(prompt('Digite o terceiro número:'));
+let numero1 = parseInt(prompt('Digite o primeiro número:'));
+let numero2 = parseInt(prompt('Digite o segundo número:'));
+let numero3 = parseInt(prompt('Digite o terceiro número:'));
 
 let media = (numero1 + numero2 + numero3) / 3;
 
