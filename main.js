@@ -11,4 +11,7 @@ function multiplicar (a,b) {
 let areaTriangulo = function(a,b){
     return a*b/2;
 }
-console.log()
+console.log(areaTriangulo);
+let nome = prompt(?)
+document.write (nome);
+parseInt(prompt('?'))
