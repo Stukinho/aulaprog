@@ -17,7 +17,7 @@ let numero1 = parseInt(prompt('Digite o primeiro número:'));
 let numero2 = parseInt(prompt('Digite o segundo número:'));
 let numero3 = parseInt(prompt('Digite o terceiro número:'));
 
-function media (a,b,c); {
+function media(a,b,c) {
 return a+b+c/3;
 }
 console.log(media(1,2,3));
