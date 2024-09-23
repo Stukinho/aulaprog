@@ -17,13 +17,6 @@ let numero1 = parseInt(prompt('Digite o primeiro número:'));
 let numero2 = parseInt(prompt('Digite o segundo número:'));
 let numero3 = parseInt(prompt('Digite o terceiro número:'));
 
-let media = (numero1 + numero2 + numero3) / 3;
-
-let resultadoDiv = document.getElementById('resultado');
-resultadoDiv.innerHTML = `
-    Você digitou:<br>
-    Primeiro número: ${numero1}<br>
-    Segundo número: ${numero2}<br>
-    Terceiro número: ${numero3}<br>
-    A média dos números é: ${media}
-    `;
+function media (a,b,c);
+return a+b+c/3;
+document.write(media(numero1,numero2,numero3))
